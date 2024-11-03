@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=syuchua&left_color=green&right_color=red)
+<! -- ![visitors](https://visitor-badge.glitch.me/badge?page_id=syuchua&left_color=green&right_color=red) -->
 
 
 # Hi there, I'm syuchua 👋
