@@ -1,7 +1,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=syuchua&left_color=green&right_color=red) -->
 
 
-# Hi there, I'm syuchua 👋
+# Hi there, I'm yuchu 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syuchua&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=syuchua)
