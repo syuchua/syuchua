@@ -20,7 +20,7 @@
 | Project | Description |
 | ------- | ----------- |
 | [QFurina](https://github.com/syuchua/QFurina) | 一个简单、现代、高性能的QQ机器人后端框架，支持AI对话、绘图、语音、联网等功能 |
-<!-- | [Project 2](https://github.com/syuchua/chatui) | Brief description of Project 2 | -->
+| [Project 2](https://github.com/syuchua/mcp-demo) |一个简单的mcp client的demo级实现|
 
 ## Skills
 
