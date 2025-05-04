@@ -11,7 +11,7 @@
 
 <!-- <img src="https://avatars.githubusercontent.com/u/syuchua" width="100"> -->
 
-- 🔭 I’m currently working on [QFurina]
+- 🔭 I’m currently working on [QFurina](https://github.com/syuchua/QFurina)/[mcp-demo](https://github.com/syuchua/mcp-demo)
 - 🌱 I’m currently learning [ROS/Golang]
 - 📫 How to reach me: [syuchua@proton.me]
 
